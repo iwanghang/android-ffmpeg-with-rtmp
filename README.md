@@ -1,3 +1,6 @@
+# 用于编译Android使用的ffmpeg的so包。 用于为Android构建ffmpeg的脚本，包括对RTMP（和OpenSSL）的支持。
+# 目前，没有编译成功，稍后再试。可能编译是，缺少ndk。
+
 # android-ffmpeg-with-rtmp
 
 This repository contains script(s) to build ffmpeg for android with RTMP (and OpenSSL) support.
